@@ -1,10 +1,6 @@
 
 # 🧪 Exide DTSC Clean-Up Project
 
-**California State University, Long Beach**  
-IS 699 – Information Systems Project  
-**Team KANYARASI**
-
 ## 📍 Section 1: Project Background – Exide DTSC Clean-up
 
 The Exide DTSC Clean-up project addresses a critical environmental and public health crisis in Southern California. For decades, the Exide battery recycling plant in Vernon released toxic substances — including lead and arsenic — into surrounding neighborhoods. Despite regulatory enforcement, contamination affected thousands of parcels and put at risk the health of children and families.
