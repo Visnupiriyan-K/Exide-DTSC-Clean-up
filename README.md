@@ -71,12 +71,12 @@ Our solution acts as a digital bridge between fieldwork and centralized oversigh
 
 <table>
   <tr>
-    <td><img src="./assets/admin-overview.png" width="300"/></td>
-    <td><img src="./assets/admin-workforce.png" width="300"/></td>
+    <td><img src="./assets/admin-overview.png" width="600"/></td>
+    <td><img src="./assets/admin-workforce.png" width="600"/></td>
   </tr>
   <tr>
-    <td><img src="./assets/admin-equipment.png" width="300"/></td>
-    <td><img src="./assets/admin-calendar.png" width="300"/></td>
+    <td><img src="./assets/admin-equipment.png" width="600"/></td>
+    <td><img src="./assets/admin-calendar.png" width="600"/></td>
   </tr>
 </table>
 
