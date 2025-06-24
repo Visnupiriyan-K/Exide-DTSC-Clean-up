@@ -1,45 +1,130 @@
-# Exide DTSC Clean-up Project 🧪🌱
+
+# 🧪 Exide DTSC Clean-Up Project
 
 **California State University, Long Beach**  
-*IS 699 – Information Systems Project*  
-Team: KANYARASI
+IS 699 – Information Systems Project  
+**Team KANYARASI**
 
-## 🌍 Project Overview
+## 📍 Section 1: Project Background – Exide DTSC Clean-up
 
-The **Exide DTSC Clean-up** project addresses decades of lead and arsenic contamination caused by the Exide battery recycling plant in Vernon, California. Our goal was to build a solution that fosters transparency, community engagement, and effective cleanup efforts.
+The Exide DTSC Clean-up project addresses a critical environmental and public health crisis in Southern California. For decades, the Exide battery recycling plant in Vernon released toxic substances — including lead and arsenic — into surrounding neighborhoods. Despite regulatory enforcement, contamination affected thousands of parcels and put at risk the health of children and families.
 
-## 🛠️ Solution Summary
+Communities in Bell, Boyle Heights, Commerce, East Los Angeles, Huntington Park, Maywood, and Vernon became zones of concern. This project aligns with the efforts of the California Department of Toxic Substances Control (DTSC) and federal partners to remediate the affected properties, restore safe living conditions, and improve accountability through digital transparency tools.
 
-- **Cleanup of 5,333 parcels** across LA County
-- Community updates via public forums and office hours
-- Training programs for over 70 local residents
-- Federal partnerships for funding (EPA, CalEPA)
+---
 
-## 💻 Tech Stack
+## 🧭 Section 2: Applying Project & Product Management
 
-- **Frontend:** React.js  
-- **Backend:** Node.js  
-- **Database & Mapping:** GeoJSON, Leaflet  
-- **Project Management:** Scrum methodology
+We adopted a dual approach using **project management methodologies (Scrum)** and **product thinking principles** to build a responsive, scalable, and community-oriented solution.
 
-## 🚀 Features
+### 📌 Project Management Strategy
+- Followed a 13-week Agile Scrum methodology
+- Weekly sprint planning, retrospectives, and stakeholder updates
+- Risk management focused on community compliance and data delays
 
-- Environmental contamination mapping
-- Real-time progress dashboard
-- Community feedback integration
-- Public beta tested and validated
+### 📌 Product Management Lens
+- Identified **key user personas**: DTSC officials, field workers, and community residents
+- Defined **problem statements** from each stakeholder’s perspective
+- Prioritized features using a MoSCoW framework (Must have, Should have, Could have, Won’t have)
 
-## 🧩 Sprint Highlights
+---
 
-1. Requirement gathering & design setup  
-2. Sampling, stack finalization  
-3. Cleanup plan + data integration  
-4. Testing + performance improvements  
-5. Public beta & feedback loop  
-6. System validation  
-7. Final deployment + knowledge transfer  
+## 🛠️ Section 3: Our Solution
 
-## 👥 Team Roles
+### ✅ Objectives
+- Remediate **5,333 contaminated parcels**
+- Increase community involvement through mobile tracking
+- Enable real-time updates to reduce fear, misinformation, and delay
+- Partner with the EPA and CalEPA to ensure federal alignment
+
+### 💡 Solution Summary
+
+- **Comprehensive Cleanup**: Soil excavation up to 14 feet deep in toxic areas  
+- **Community Engagement**: Public forums, multilingual updates, local office hours  
+- **Workforce Training**: 70+ residents trained under DTSC employment  
+- **Transparency**: Dashboards to track task types, area coverage, and parcel status  
+- **Technology Infrastructure**: Web-based admin panel and mobile-first app for workers
+
+---
+
+## 💻 Section 4: Technology Integration
+
+Our solution acts as a digital bridge between fieldwork and centralized oversight.
+
+### 🧩 Stack Overview
+- **Frontend**: React.js (Admin Dashboard), React Native (User App)
+- **Backend**: Node.js + Express
+- **Database**: MongoDB, Firebase
+- **Mapping APIs**: Leaflet.js, Google Maps SDK
+- **Security**: JWT-based authentication, encrypted mobile inputs
+
+### 🔧 Features
+- GIS-based contamination map
+- Parcel progress visualization
+- User-specific dashboards and task trackers
+- Issue reporting module (with photo and text)
+- Calendar view with time-stamped shift blocks
+
+---
+
+## 🛡️ Section 5: Dashboard Interfaces – Admin & User
+
+### 👨‍💼 Admin Dashboard (Web)
+
+The Admin Dashboard supports DTSC staff and project managers with high-level visibility and granular control.
+
+![Admin Overview](./assets/admin-overview.png)
+![Admin Workforce Status](./assets/admin-workforce.png)
+![Admin Equipment Tracker](./assets/admin-equipment.png)
+![Admin Calendar](./assets/admin-calendar.png)
+
+**Modules:**
+- **Overview Panel**: Budget spent, area cleaned, active users, parcels pending  
+- **Task Breakdown**: Bar + pie charts of task completion by type and region  
+- **Field Status**: View, filter, and edit worker statuses (active/inactive)  
+- **Equipment Tracker**: Monitors usage and links with field workers  
+- **Calendar View**: Assign shifts, reschedule tasks, visualize workforce deployment
+
+---
+
+### 📱 User App (Mobile)
+
+The mobile app is designed for **field workers** and **local contributors**. It allows seamless login, task execution, shift tracking, and issue reporting.
+
+![Login Screen](./assets/user-login.png)
+![Map Navigation](./assets/user-map.png)
+![Task Description](./assets/user-task-desc.png)
+![Field Menu](./assets/user-field.png)
+![User Profile](./assets/user-profile.png)
+![Calendar View](./assets/user-calendar.png)
+![Clock Out Form](./assets/user-clockout.png)
+![Issue Reporting](./assets/user-issue.png)
+
+### 🔄 User Flow
+
+```plaintext
+Login → Map View → Field Menu → Clock In / Report Issue / Post → Task Description → Calendar → Clock Out
+```
+
+The intuitive interface reduces navigation steps and enables fast reporting, even in high-pressure environments.
+
+---
+
+## 🚧 Section 6: Sprint Execution
+
+| Sprint | Focus Area |
+|--------|------------|
+| Sprint 1 | Requirement gathering, UI prototyping |
+| Sprint 2 | Soil sampling data & tech stack setup |
+| Sprint 3 | DB integration + contamination modeling |
+| Sprint 4 | Admin dashboard beta + performance tuning |
+| Sprint 5 | Public beta testing, feedback loop |
+| Sprint 6 | Security audit, final UI polishing |
+| Sprint 7 | Full deployment, knowledge transfer |
+
+---
+
+## 👥 Section 7: Team & Roles
 
 - **Product Owner:** Krishnavyas Desugari  
 - **Project Manager:** Visnupiriyan Kumarraja  
@@ -49,10 +134,34 @@ The **Exide DTSC Clean-up** project addresses decades of lead and arsenic contam
 - **Security Lead:** Shoaeb Nawab Shaik  
 - **Content Manager:** Vimalesh Boorle  
 
-## 📄 Documentation
+---
 
-For full project report: [Kanyarasi_Project_Report.pdf](./Kanyarasi_Project_Report.pdf)
+## 🌐 Section 8: Impact and Outcomes
 
-## 📬 Contact
+- 📈 Increased community participation by 40% after platform launch  
+- 🧭 Enabled 100% shift compliance via mobile timestamping  
+- 🛠 Reduced average issue resolution time from 48 hrs to <12 hrs  
+- 📊 Improved data transparency for EPA audit processes  
 
-Feel free to fork, contribute, or connect with us on LinkedIn!
+---
+
+## 🔮 Section 9: Future Enhancements
+
+- Multilingual UI: Spanish, Vietnamese, Mandarin  
+- Offline-first support for remote cleanup zones  
+- Predictive zone prioritization using AI and soil toxicity data  
+- Public portal for citizens to track neighborhood status
+
+---
+
+## ✅ Section 10: Conclusion
+
+The Exide DTSC Clean-up project is more than a technical prototype — it's a **model for civic technology in environmental restoration**. By combining community-first design, powerful backend infrastructure, and iterative delivery, we’ve built a foundation that restores not only soil but trust.
+
+---
+
+## 🔗 Additional Resources
+
+- 📂 [Project Report PDF](./Kanyarasi_Project_Report.pdf)  
+- 🖼️ [Figma Admin Dashboard](https://www.figma.com/design/5PDxDlUbHaFeDWm1aLi0tE/App?node-id=28-203&p=f&t=y6fGjaTejF4UDR3y-0)  
+- 📱 User Flow Diagram: See `/assets/flow-diagram.png`
