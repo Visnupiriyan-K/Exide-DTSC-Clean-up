@@ -170,6 +170,8 @@ The Exide DTSC Clean-up project is more than a technical prototype — it's a **
 ---
 
 ## 🔗 Additional Resources
+<h4>Admin Flow Diagram (SVG)</h4>
+<img src="./assets/admin-flow.svg" width="600px"/>
 
 - 📂 [Project Report PDF](./Kanyarasi_Project_Report.pdf)  
 - 🖼️ [Figma Admin Dashboard](https://www.figma.com/design/5PDxDlUbHaFeDWm1aLi0tE/App?node-id=28-203&p=f&t=y6fGjaTejF4UDR3y-0)  
