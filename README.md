@@ -1,7 +1,7 @@
 
 # 🧪 Exide DTSC Clean-Up Project
 
-## 📍 Section 1: Project Background – Exide DTSC Clean-up
+## 📍 Project Background – Exide DTSC Clean-up
 
 The Exide DTSC Clean-up project addresses a critical environmental and public health crisis in Southern California. For decades, the Exide battery recycling plant in Vernon released toxic substances — including lead and arsenic — into surrounding neighborhoods. Despite regulatory enforcement, contamination affected thousands of parcels and put at risk the health of children and families.
 
@@ -9,7 +9,7 @@ Communities in Bell, Boyle Heights, Commerce, East Los Angeles, Huntington Park,
 
 ---
 
-## 🧭 Section 2: Applying Project & Product Management
+## 🧭 Applying Project & Product Management
 
 We adopted a dual approach using **project management methodologies (Scrum)** and **product thinking principles** to build a responsive, scalable, and community-oriented solution.
 
