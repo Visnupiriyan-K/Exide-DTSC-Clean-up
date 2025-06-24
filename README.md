@@ -121,15 +121,20 @@ The intuitive interface reduces navigation steps and enables fast reporting, eve
 
 ## 🚧 Section 6: Sprint Execution
 
-| Sprint | Focus Area |
-|--------|------------|
-| Sprint 1 | Requirement gathering, UI prototyping |
-| Sprint 2 | Soil sampling data & tech stack setup |
-| Sprint 3 | DB integration + contamination modeling |
-| Sprint 4 | Admin dashboard beta + performance tuning |
-| Sprint 5 | Public beta testing, feedback loop |
-| Sprint 6 | Security audit, final UI polishing |
-| Sprint 7 | Full deployment, knowledge transfer |
+### 🚀 Implementation Timeline: Agile Sprint Breakdown
+
+Our team adopted a **SCRUM-based agile methodology** across a 13-week timeline, divided into seven key sprints. Each sprint focused on delivering incremental and functional value while involving community feedback and iterative testing.
+
+| 🏁 Sprint | Duration       | Focus Area                           | Key Activities                                                                                      |
+|----------|----------------|---------------------------------------|------------------------------------------------------------------------------------------------------|
+| 🟢 Sprint 1 | Weeks 1–2     | Ideation & Requirements               | Defined requirements, identified transparency needs, proposed real-time update platform             |
+| 🟢 Sprint 2 | Weeks 3–4     | Tech Stack & UI Prototyping          | Finalized stack (`React.js`, `Node.js`), designed UI mockups, began interface development           |
+| 🟢 Sprint 3 | Weeks 5–6     | Core Cleanup Plan Integration        | Integrated datasets, created contamination report visualizations, developed cleanup modules         |
+| 🟢 Sprint 4 | Weeks 7–8     | Feedback & UX Enhancements           | Gathered feedback, refined UX, ran performance/load tests                                            |
+| 🟠 Sprint 5 | Weeks 10–11   | Public Beta Prep                     | Finalized MVP, conducted community office hours, created help and onboarding docs                   |
+| 🟠 Sprint 6 | Week 12       | Testing & Validation                 | Ran full validation, improved environmental map layers, resolved critical UI/UX issues              |
+| 🟠 Sprint 7 | Week 13       | Deployment & Handoff                | Deployed system, transferred documentation, conducted stakeholder knowledge transfer                |
+
 
 ---
 
