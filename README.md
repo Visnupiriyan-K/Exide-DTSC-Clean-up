@@ -1,7 +1,7 @@
 
 # 🧪 Exide DTSC Clean-Up Project
 
-## 📍 Project Background – Exide DTSC Clean-up
+# 📍 Project Background – Exide DTSC Clean-up
 
 The Exide DTSC Clean-up project addresses a critical environmental and public health crisis in Southern California. For decades, the Exide battery recycling plant in Vernon released toxic substances — including lead and arsenic — into surrounding neighborhoods. Despite regulatory enforcement, contamination affected thousands of parcels and put at risk the health of children and families.
 
@@ -9,7 +9,7 @@ Communities in Bell, Boyle Heights, Commerce, East Los Angeles, Huntington Park,
 
 ---
 
-## 🧭 Applying Project & Product Management
+# 🧭 Applying Project & Product Management
 
 We adopted a dual approach using **project management methodologies (Scrum)** and **product thinking principles** to build a responsive, scalable, and community-oriented solution.
 
@@ -25,7 +25,7 @@ We adopted a dual approach using **project management methodologies (Scrum)** an
 
 ---
 
-## 🛠️ Our Solution
+# 🛠️ Our Solution
 
 ### ✅ Objectives
 - Remediate **5,333 contaminated parcels**
@@ -43,7 +43,7 @@ We adopted a dual approach using **project management methodologies (Scrum)** an
 
 ---
 
-## 💻 Technology Integration
+# 💻 Technology Integration
 
 Our solution acts as a digital bridge between fieldwork and centralized oversight.
 
@@ -63,7 +63,7 @@ Our solution acts as a digital bridge between fieldwork and centralized oversigh
 
 ---
 
-## 🛡️ Dashboard Interfaces – Admin & User
+# 🛡️ Dashboard Interfaces – Admin & User
 
 <h3>👨‍💼 Admin Dashboard (Web)</h3>
 
@@ -119,7 +119,7 @@ The intuitive interface reduces navigation steps and enables fast reporting, eve
 
 ---
 
-## 🚧 Sprint Execution
+# 🚧 Sprint Execution
 
 ### 🚀 Implementation Timeline: Agile Sprint Breakdown
 
@@ -138,7 +138,7 @@ Our team adopted a **SCRUM-based agile methodology** across a 13-week timeline, 
 
 ---
 
-## 👥 Team & Roles
+# 👥 Team & Roles
 
 - **Product Owner:** Krishnavyas Desugari  
 - **Project Manager:** Visnupiriyan Kumarraja  
@@ -150,7 +150,7 @@ Our team adopted a **SCRUM-based agile methodology** across a 13-week timeline, 
 
 ---
 
-## 🌐 Impact and Outcomes
+# 🌐 Impact and Outcomes
 
 - 📈 Increased community participation by 40% after platform launch  
 - 🧭 Enabled 100% shift compliance via mobile timestamping  
@@ -159,7 +159,7 @@ Our team adopted a **SCRUM-based agile methodology** across a 13-week timeline, 
 
 ---
 
-## 🔮 Future Enhancements
+# 🔮 Future Enhancements
 
 - Multilingual UI: Spanish, Vietnamese, Mandarin  
 - Offline-first support for remote cleanup zones  
@@ -168,7 +168,7 @@ Our team adopted a **SCRUM-based agile methodology** across a 13-week timeline, 
 
 ---
 
-## ✅ Conclusion
+# ✅ Conclusion
 
 The Exide DTSC Clean-up project is more than a technical prototype — it's a **model for civic technology in environmental restoration**. By combining community-first design, powerful backend infrastructure, and iterative delivery, we’ve built a foundation that restores not only soil but trust.
 
