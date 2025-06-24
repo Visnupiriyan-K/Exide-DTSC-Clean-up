@@ -177,7 +177,7 @@ The Exide DTSC Clean-up project is more than a technical prototype — it's a **
 <h4>Admin Flow Diagram (SVG)</h4>
 <img src="./assets/admin-flow.svg" width="600px"/>
 <h4>User Flow Diagram (SVG)</h4>
-<img src="./assets/user-flow.svg" width="600px"/>
+<img src="./assets/mobile-map.svg" width="600px"/>
 
 
 
