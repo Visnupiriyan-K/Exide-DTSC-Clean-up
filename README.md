@@ -65,14 +65,21 @@ Our solution acts as a digital bridge between fieldwork and centralized oversigh
 
 ## 🛡️ Section 5: Dashboard Interfaces – Admin & User
 
-### 👨‍💼 Admin Dashboard (Web)
+<h3>👨‍💼 Admin Dashboard (Web)</h3>
 
-The Admin Dashboard supports DTSC staff and project managers with high-level visibility and granular control.
+<p>The Admin Dashboard supports DTSC staff and project managers with high-level visibility and granular control.</p>
 
-![Admin Overview](./assets/admin-overview.png)
-![Admin Workforce Status](./assets/admin-workforce.png)
-![Admin Equipment Tracker](./assets/admin-equipment.png)
-![Admin Calendar](./assets/admin-calendar.png)
+<table>
+  <tr>
+    <td><img src="./assets/admin-overview.png" width="300"/></td>
+    <td><img src="./assets/admin-workforce.png" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/admin-equipment.png" width="300"/></td>
+    <td><img src="./assets/admin-calendar.png" width="300"/></td>
+  </tr>
+</table>
+
 
 **Modules:**
 - **Overview Panel**: Budget spent, area cleaned, active users, parcels pending  
