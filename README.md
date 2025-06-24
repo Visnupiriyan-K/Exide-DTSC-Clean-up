@@ -83,18 +83,24 @@ The Admin Dashboard supports DTSC staff and project managers with high-level vis
 
 ---
 
-### 📱 User App (Mobile)
+<h3>📱 User App (Mobile)</h3>
 
-The mobile app is designed for **field workers** and **local contributors**. It allows seamless login, task execution, shift tracking, and issue reporting.
+<p>The mobile app is designed for <strong>field workers</strong> and <strong>local contributors</strong>. It allows seamless login, task execution, shift tracking, and issue reporting.</p>
 
-![Login Screen](./assets/user-login.png)
-![Map Navigation](./assets/user-map.png)
-![Task Description](./assets/user-task-desc.png)
-![Field Menu](./assets/user-field.png)
-![User Profile](./assets/user-profile.png)
-![Calendar View](./assets/user-calendar.png)
-![Clock Out Form](./assets/user-clockout.png)
-![Issue Reporting](./assets/user-issue.png)
+<table>
+  <tr>
+    <td><img src="./assets/user-login.png" width="200"/></td>
+    <td><img src="./assets/user-map.png" width="200"/></td>
+    <td><img src="./assets/user-task-desc.png" width="200"/></td>
+    <td><img src="./assets/user-field.png" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/user-profile.png" width="200"/></td>
+    <td><img src="./assets/user-calendar.png" width="200"/></td>
+    <td><img src="./assets/user-clockout.png" width="200"/></td>
+    <td><img src="./assets/user-issue.png" width="200"/></td>
+  </tr>
+</table>
 
 ### 🔄 User Flow
 
